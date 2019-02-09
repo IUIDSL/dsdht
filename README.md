@@ -1,6 +1,6 @@
 # DSDHT: Data Science for Drug Discovery, Health, and Translational Medicine
 
-![I590 Banner](/images/I590banner.png)
+![I590 Banner](images/I590banner.png)
 
 INFO_I-590, "Topics in Informatics: Data Science for Drug Discovery,
 Health and Translational Medicine". This innovative data science course
@@ -16,6 +16,6 @@ The resulting Spring 2017 edition of DSDHT was quite successful in many respects
 
 
 DSDHT course concept diagram developed collaboratively with IU instructional designers:
-![DSDHT Concept Diagram](/images/I590_DSDHT_2017.png)
+![DSDHT Concept Diagram](images/I590_DSDHT_2017.png)
 
 These three units organized the domain knowledge, linked by foundational life sciences, but also all addressable by the methods and tools of data science.  In this way a profoundly vast and diverse knowledge domain was organized and related to data science, with specific, concrete examples and exercises informed by the academic and commercial experiences of the instructors.  DSDHT was offered again in Fall 2017, with minor revisions, mostly to achieve more effective and consistent use of the online learning management system (LMS) Canvas.  One notable feature of DSDHT was the final projects, which involved a process of proposals and refinement, and presentation via report and a "virtual poster session."  These projects were modeled after scholarly or professional research studies.  Several have potential as publishable research, and are available as exemplars by consent of the students.
