@@ -4,8 +4,9 @@
 
 INFO_I-590, "Topics in Informatics: Data Science for Drug Discovery,
 Health and Translational Medicine". This innovative data science course
-was developed and introduced by Prof. Wild in 2013, with major contributions by
-Associate Instructor, Abhik Seal.  For 2017 the course was significantly revised, by Prof. Joanne Luciano, assisted by Jeremy Yang and JT Wolohan as associate instructors.
+was developed and introduced by Professor David Wild in 2013, with major contributions by
+Associate Instructor Abhik Seal.  For 2017 the course was significantly revised, by 
+Professor Joanne Luciano, assisted by Associate Instructors Jeremy Yang and JT Wolohan.
 
 This major revision included a re-conception of the course, which had previously
 concentrated on drug discovery, and particularly bioinformatics and cheminformatics, to
